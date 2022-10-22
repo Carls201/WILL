@@ -11,7 +11,6 @@ function crearClasePersona() {
       // Inicializar las propiedades de la persona con los valores recibidos como argumento
 
       // Tu código aca:
-
     }
 
     addFriend(nombre, edad) {
@@ -20,7 +19,6 @@ function crearClasePersona() {
       // No debe retornar nada.
 
       // Tu código aca:
-
     }
 
     addHobby(hobby) {
